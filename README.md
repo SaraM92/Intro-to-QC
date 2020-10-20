@@ -1,2 +1,2 @@
 # Intro-to-QC
-This repo is for the WWCode Python webinar on QC
+This repo is for a webinar on QC
